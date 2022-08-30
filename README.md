@@ -51,5 +51,5 @@ The analysis of the election show that:
 
 ## Election Audit Summary
 
-The script created for this Election Audit can be reused for any future upcoming elections. With each new election include the .csv file in the resources folder and create a new name for the file. Once you've done so, locate the file path on line 9 and change the current file .csv file with the name of the new .csv file.
+The script created for this Election Audit can be reused for any future upcoming elections. With each new election include the .csv file in the resources folder and create a new name for the file. Once you've done so, locate the file path on line 9 and change the current file .csv file "election_results.csv" with the name of the new .csv file.
 ![File_path](Resources/File_path.png)
